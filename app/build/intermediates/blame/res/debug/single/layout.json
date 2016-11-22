@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
+        "merged": "C:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\score_text_view.xml",
+        "source": "C:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\src\\main\\res\\layout\\score_text_view.xml"
+    },
+    {
         "merged": "C:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text_view.xml",
         "source": "C:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\src\\main\\res\\layout\\text_view.xml"
     }

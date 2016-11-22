@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Nov 15 10:52:22 EST 2016
+#Tue Nov 22 13:52:46 EST 2016
 2.base=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.file=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\b64.png
 5.set=ANDROID_RESOURCE
@@ -9,22 +9,25 @@
 4.base=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
 7.file=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\b256.png
 7.set=ANDROID_RESOURCE
-count=9
+count=10
 0.file=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 5.base=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
 8.file=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
 4.set=ANDROID_RESOURCE
 6.base=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
 1.file=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\b512.png
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\score_text_view.xml
 1.set=ANDROID_RESOURCE
 7.base=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
 2.file=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 6.set=ANDROID_RESOURCE
 0.base=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
 8.base=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\text_view.xml
+3.file=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\b128.png
 3.set=ANDROID_RESOURCE
 1.base=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\b128.png
+9.base=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Wren\\Desktop\\CMSC 374 Mobile App Development\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\text_view.xml
 8.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE
